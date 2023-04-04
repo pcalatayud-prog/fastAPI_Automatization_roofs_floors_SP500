@@ -22,5 +22,5 @@ Navigate to the directory and execute the main.py script. This will create a loc
 Please note that in order to run the API locally, the main.py script must be executed from within the /home/sharing/yahoo directory. A more permanent solution may involve adding the command to the .bashrc file.
 
 Example Visualization
-
+![Alt text](example.png "Example of Visualization")
 This image shows an example of the visualization that can be generated using the scripts and data in this repository. The visualization includes the floors and roofs for a single stock, as well as other technical analysis data. By using the API, these visualizations can be generated for any stock in the S&P 500 index.
