@@ -15,7 +15,8 @@ yahoo-single.py: Python script that generates images for a single ticker, which 
 Running the API
 
 
-## To run the API locally, navigate to the directory and execute the main.py script. This will create a local API that can be accessed in a web browser or through programmatic API calls. The API will generate images for each stock in the sp_500_Stocks.csv file and serve them at the IP/ticker/{ticker} endpoint.
+## To run the API locally.
+Navigate to the directory and execute the main.py script. This will create a local API that can be accessed in a web browser or through programmatic API calls. The API will generate images for each stock in the sp_500_Stocks.csv file and serve them at the IP/ticker/{ticker} endpoint.
 
 Please note that in order to run the API locally, the main.py script must be executed from within the /home/sharing/yahoo directory. A more permanent solution may involve adding the command to the .bashrc file.
 
